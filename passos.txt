@@ -1,0 +1,6 @@
+faz as paradas do slide
+dps de abrir o cypress com npx cypress open
+escolha o da esquerda 
+depois esolha um navegador
+aperte create new spec
+muda o nome para login tipo assim(cypress\e2e\login.cy.js)
